@@ -1,0 +1,13 @@
+SI =   20 dB done
+SI =   25 dB done
+SI =   30 dB done
+SI =   35 dB done
+SI =   40 dB done
+SI =   45 dB done
+SI =   50 dB done
+SI =   55 dB done
+SI =   60 dB done
+saved C:\Users\Dhava\Desktop\Coding\PE_Amritha\fd_isac_project_v1\results\fig3_residual_SI.png
+saved C:\Users\Dhava\Desktop\Coding\PE_Amritha\fd_isac_project_v1\results\fig4_SoI_over_SI.png
+
+Mean residual SI [dB] at SI = 60 dB: {'varrho = 1': -256.9, 'varrho = 10': -260.2, 'varrho = 100': -258.5, 'varrho = 1000': -258.8, 'varrho = inf (comm only)': -256.4, 'NSP': -391.4}

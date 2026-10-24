@@ -1,0 +1,4 @@
+varrho = 1: residual SI = -263.71 dB  (iterations 12)
+varrho = 100: residual SI = -264.23 dB  (iterations 100)
+varrho = 0.01: residual SI = -237.42 dB  (iterations 4)
+saved C:\Users\Dhava\Desktop\Coding\PE_Amritha\fd_isac_project_v1\results\fig5_beampatterns.png
