@@ -1,0 +1,28 @@
+5/45 trials done
+10/45 trials done
+15/45 trials done
+20/45 trials done
+25/45 trials done
+30/45 trials done
+35/45 trials done
+40/45 trials done
+45/45 trials done
+saved C:\Users\Dhava\Desktop\Coding\PE_AmrithaMaam\fd_isac_project_v3\results\fig3_residual_SI.png
+saved C:\Users\Dhava\Desktop\Coding\PE_AmrithaMaam\fd_isac_project_v3\results\fig4_SoI_over_SI.png
+saved C:\Users\Dhava\Desktop\Coding\PE_AmrithaMaam\fd_isac_project_v3\results\fig7_sumrate.png
+
+Median residual SI [dB] at SI = 20 / 60 dB:
+  varrho = 1                   -229.2   -198.5
+  varrho = 10                  -254.9   -172.9
+  varrho = 100                 -274.4   -194.6
+  varrho = 1000                -273.9   -197.3
+  varrho = inf (comm only)     -277.8   -199.7
+  NSP method                   -300.0   -253.8
+Mean sum-rate [bps/Hz] at SI = 20 / 60 dB:
+  varrho = 1                  13.98  12.32
+  varrho = 10                 19.88  19.94
+  varrho = 100                20.50  20.55
+  varrho = 1000               20.50  20.55
+  varrho = inf (comm only)    20.51  20.56
+  NSP method                  13.36  12.83
+  Half-duplex                 10.28  10.31

@@ -1,0 +1,8 @@
+loss    0 dB | HD  16.9 | FD varrho=inf  33.8 | FD varrho=1  23.0 (Ru 12.7, Rd 8.8) | Gt/(Nt Pd) 1.00 | DL lobe vs target lobe  -20.0 dB
+loss    5 dB | HD  15.3 | FD varrho=inf  30.5 | FD varrho=1  20.0 (Ru 11.0, Rd 8.0) | Gt/(Nt Pd) 0.99 | DL lobe vs target lobe  -16.6 dB
+loss   10 dB | HD  13.6 | FD varrho=inf  27.2 | FD varrho=1  17.0 (Ru 9.4, Rd 7.3) | Gt/(Nt Pd) 0.97 | DL lobe vs target lobe  -13.2 dB
+loss   15 dB | HD  11.9 | FD varrho=inf  23.8 | FD varrho=1  14.2 (Ru 7.7, Rd 6.4) | Gt/(Nt Pd) 0.94 | DL lobe vs target lobe  -11.3 dB
+loss   20 dB | HD  10.3 | FD varrho=inf  20.5 | FD varrho=1  10.9 (Ru 6.1, Rd 4.8) | Gt/(Nt Pd) 0.95 | DL lobe vs target lobe  -11.7 dB
+loss   25 dB | HD   8.6 | FD varrho=inf  17.2 | FD varrho=1   7.7 (Ru 4.7, Rd 3.1) | Gt/(Nt Pd) 0.96 | DL lobe vs target lobe  -12.7 dB
+loss   30 dB | HD   7.0 | FD varrho=inf  13.9 | FD varrho=1   4.1 (Ru 2.5, Rd 1.6) | Gt/(Nt Pd) 0.96 | DL lobe vs target lobe  -13.2 dB
+saved C:\Users\Dhava\Desktop\Coding\PE_AmrithaMaam\fd_isac_project_v3\results\calibration.png

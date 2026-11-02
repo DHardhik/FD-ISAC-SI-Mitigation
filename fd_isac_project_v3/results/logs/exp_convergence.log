@@ -1,0 +1,5 @@
+Nt=16, SI = 60 dB: 45 iterations, converged=True, monotone=True
+   mean iterations over 5 trials: 47.0  (min 44, max 53)
+Nt=8, SI = 20 dB: 26 iterations, converged=True, monotone=True
+   mean iterations over 5 trials: 26.8  (min 22, max 33)
+saved C:\Users\Dhava\Desktop\Coding\PE_AmrithaMaam\fd_isac_project_v3\results\fig2_convergence.png

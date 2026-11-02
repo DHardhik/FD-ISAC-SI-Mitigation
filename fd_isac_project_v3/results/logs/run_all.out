@@ -1,0 +1,11 @@
+[start] exp_convergence.py
+[ok] exp_convergence.py  (14s elapsed)
+[start] exp_beampattern.py
+[ok] exp_beampattern.py  (16s elapsed)
+[start] exp_sensing.py
+[ok] exp_sensing.py  (99s elapsed)
+[start] exp_si_sweep.py
+[ok] exp_si_sweep.py  (1082s elapsed)
+[start] exp_calibration.py
+[ok] exp_calibration.py  (1574s elapsed)
+done in 1574s -> figures in results/, logs in results/logs/

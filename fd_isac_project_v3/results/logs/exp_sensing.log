@@ -1,0 +1,12 @@
+Proposed method             peak at r =   7.5 m, v =  19.67 m/s
+NSP method                  peak at r =   7.5 m, v =  20.27 m/s
+Radar-only method           peak at r =   0.0 m, v =   0.00 m/s
+Communication-only method   peak at r =   0.0 m, v =   0.00 m/s
+saved C:\Users\Dhava\Desktop\Coding\PE_AmrithaMaam\fd_isac_project_v3\results\fig8_range_velocity.png
+saved C:\Users\Dhava\Desktop\Coding\PE_AmrithaMaam\fd_isac_project_v3\results\fig9_angle.png
+
+Detection rate over 5 trials (peak at true range bin and |v err| < 1.5 m/s | AoA within 2 deg):
+  Proposed method             range-velocity  1.00   angle  0.80
+  NSP method                  range-velocity  1.00   angle  1.00
+  Radar-only method           range-velocity  0.00   angle  1.00
+  Communication-only method   range-velocity  0.00   angle  0.00

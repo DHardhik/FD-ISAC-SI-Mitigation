@@ -1,0 +1,4 @@
+varrho = 1: residual SI = -189.7 dB | TX level at DL user -11.7 dB below peak (radar-only: -24.7) | RX level at UL user -4.0 dB below peak (radar-only: -25.5)
+varrho = 100: residual SI = -198.7 dB | TX level at DL user -0.0 dB below peak (radar-only: -24.7) | RX level at UL user 0.0 dB below peak (radar-only: -25.5)
+varrho = 0.01: residual SI = -98.7 dB | TX level at DL user -24.1 dB below peak (radar-only: -24.7) | RX level at UL user -2.6 dB below peak (radar-only: -25.5)
+saved C:\Users\Dhava\Desktop\Coding\PE_AmrithaMaam\fd_isac_project_v3\results\fig5_beampatterns.png
